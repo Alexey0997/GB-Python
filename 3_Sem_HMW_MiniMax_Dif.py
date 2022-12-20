@@ -33,4 +33,4 @@ for i in factorial_list:          # Найдем максимальное и м�
         min = i
 print(f'max = {max}, min = {min}.')
 result = round((max - min), 3)
-print(f'max - min = {result}.')
+print(f'max - min = {result}.')   # Печать результата. 
