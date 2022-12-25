@@ -1,0 +1,1 @@
+If k = 5, then the polynomial is: 87*x**5 + 69*x**4 + 68*x**2 + 66*x + 11 = 0.
