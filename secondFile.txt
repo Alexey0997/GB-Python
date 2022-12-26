@@ -1,0 +1,1 @@
+Second polynomal is: f2(x) = -8*x**2 + 2
